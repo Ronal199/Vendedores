@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Expón el puerto de la app
-EXPOSE 3000
+EXPOSE 54978
 
 # Comando para iniciar la app
 CMD ["node", "crud-vendedores/app.js"]
