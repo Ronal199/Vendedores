@@ -18,3 +18,5 @@ EXPOSE 54978
 
 # Comando para iniciar la app
 CMD ["node", "crud-vendedores/app.js"]
+
+
